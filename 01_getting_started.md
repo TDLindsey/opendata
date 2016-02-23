@@ -52,5 +52,5 @@ Your main goal as an Ambassador is to paint a picture for both government offici
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="/">&laquo; Prev</a>
-  <a class="pagination-item newer" href="/02-use-cases">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/02-use-cases">Next &raquo;</a>
 </div>
