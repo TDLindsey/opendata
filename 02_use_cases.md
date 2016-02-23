@@ -30,5 +30,5 @@ Health data is a powerful tool when it can be used to create tools that support 
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="/01-getting-started">&laquo; Prev</a>
-  <a class="pagination-item newer" href="/03-ambassador-first-steps">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/03-ambassador-first-steps">Next &raquo;</a>
 </div>
